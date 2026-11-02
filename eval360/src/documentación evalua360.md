@@ -4,7 +4,7 @@
 **Institución:** CeRP del Suroeste   
 **Integrante:** Pedro Rossi  
 **Fecha de entrega:** Octubre de 2026  
-**Repositorio:** `https://github.com/pedrok1218/Evalua360` 
+**Repositorio:** `https://github.com/pedrok1218/Evalua360/tree/main/eval360/src` 
 
 ---
 
@@ -337,4 +337,4 @@ El desarrollo del proyecto **EVALUA360** permitió consolidar de forma práctica
 ---
 
 ## 18. Repositorio
-**Repositorio público:** `https://github.com/pedrok1218/Evalua360` 
+**Repositorio público:** `https://github.com/pedrok1218/Evalua360/tree/main/eval360/src` 
