@@ -1,27 +1,17 @@
 [
   {
     "tipo": "Opción Múltiple",
-    "categoria": "Cine",
-    "enunciado": "¿Quién dirigió la película 'Interestelar'?"
-  },
-  {
-    "tipo": "Verdadero / Falso",
-    "categoria": "Series",
-    "enunciado": "¿La serie 'Breaking Bad' se estrenó en el año 2008?"
-  },
-  {
-    "tipo": "Verdadero / Falso",
-    "categoria": "cine",
-    "enunciado": "will smith es blanco?"
+    "categoria": "cocina",
+    "enunciado": "color de la zanahoria?"
   },
   {
     "tipo": "Opción Múltiple",
     "categoria": "cocina",
-    "enunciado": "color de la zanahoria"
+    "enunciado": "que es un roux?"
   },
   {
-    "tipo": "Verdadero / Falso",
-    "categoria": "autos",
-    "enunciado": "los autos tienen 4 reudas?"
+    "tipo": "Opción Múltiple",
+    "categoria": "quimica",
+    "enunciado": "formula del agua"
   }
 ]
