@@ -1,1 +1,4 @@
 Estudiante: pedro | Puntaje Final: 40 pts
+Estudiante: pedro | Puntaje Final: 10 pts
+Estudiante: pedro | Puntaje Final: 10 pts
+Estudiante: pedro | Puntaje Final: 20 pts
